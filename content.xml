@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>2026042821025820JBIA</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260428210258YIAYI1</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Propuesta para el alumnado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>El idioma de Internet</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Judith Felgueroso García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-rc2</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777402973526</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-moizu7mb-1ei1expqx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo nos comunicamos por Internet?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo nos comunicamos por Internet?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo nos comunicamos por Internet?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿Cómo nos comunicamos por Internet?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moizu7mb-1ei1expqx</odePageId>
+      <odeBlockId>block-1776759828862-l7yksjwt2</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mb-1ei1expqx</odePageId>
+          <odeBlockId>block-1776759828862-l7yksjwt2</odeBlockId>
+          <odeIdeviceId>idevice-1776759828858-s1u27i90o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <figure class="exe-figure position-center" style="width: 501px;"><img src="{{context_path}}/content/resources/business-people-using-internet.jpg" width="501" height="313" alt="" />
+<figcaption class="figcaption"><a href="https://www.magnific.com/es/foto-gratis/gente-negocios-que-usa-internet_4246721.htm#fromView=search&page=1&position=0&uuid=95e0e534-00ef-4dda-970b-8205ef11cc70&query=internet" class="title" target="_blank" rel="noopener"><em>Fotografía diseñada por Freepik</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p><br /></p>
+<p style="text-align: justify;">¿Alguna vez os habéis parado a pensar en cómo nos comunicamos por Internet? ¿Creéis que existe una sola forma de hablar en la red o debemos de adaptarnos en función del contexto?</p>
+<p style="text-align: justify;">En esta situación de aprendizaje aprenderéis que no existe una sola forma de comunicación. Al igual que sucede en la comunicación analógica, también existen diferentes contextos y, por lo tanto, diferentes usos del lenguaje. Además, es muy importante recordar que lo que se escribe en Internet, puedo permanecer ahí para siempre.</p>
+<p style="text-align: justify;">Esta situación de aprendizaje se llevará a cabo a lo largo de tres sesiones. En la primera sesión conoceréis todo lo relacionado con la comunicación en Internet, en la segunda sesión elaboraréis una infografía en la que definiréis qué es la comunicación online y aportaréis algunos consejos para llevarla a cabo y en la última sesión crearéis vuestro propio podcast, en el cual hablaréis, entre otras cosas, sobre cómo se comunican los jóvenes en Internet.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776759828858-s1u27i90o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<figure class=\"exe-figure position-center\" style=\"width: 501px;\"><img src=\"{{context_path}}/content/resources/business-people-using-internet.jpg\" width=\"501\" height=\"313\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.magnific.com/es/foto-gratis/gente-negocios-que-usa-internet_4246721.htm#fromView=search&page=1&position=0&uuid=95e0e534-00ef-4dda-970b-8205ef11cc70&query=internet\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Fotografía diseñada por Freepik</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><br /></p>\n<p style=\"text-align: justify;\">¿Alguna vez os habéis parado a pensar en cómo nos comunicamos por Internet? ¿Creéis que existe una sola forma de hablar en la red o debemos de adaptarnos en función del contexto?</p>\n<p style=\"text-align: justify;\">En esta situación de aprendizaje aprenderéis que no existe una sola forma de comunicación. Al igual que sucede en la comunicación analógica, también existen diferentes contextos y, por lo tanto, diferentes usos del lenguaje. Además, es muy importante recordar que lo que se escribe en Internet, puedo permanecer ahí para siempre.</p>\n<p style=\"text-align: justify;\">Esta situación de aprendizaje se llevará a cabo a lo largo de tres sesiones. En la primera sesión conoceréis todo lo relacionado con la comunicación en Internet, en la segunda sesión elaboraréis una infografía en la que definiréis qué es la comunicación online y aportaréis algunos consejos para llevarla a cabo y en la última sesión crearéis vuestro propio podcast, en el cual hablaréis, entre otras cosas, sobre cómo se comunican los jóvenes en Internet.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moizu7mf-aeskixepi</odePageId>
+  <odeParentPageId>page-moizu7mb-1ei1expqx</odeParentPageId>
+  <pageName>1. ¿Qué es la comunicación en Internet?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¿Qué es la comunicación en Internet?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¿Qué es la comunicación en Internet?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. ¿Qué es la comunicación en Internet?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moizu7mf-aeskixepi</odePageId>
+      <odeBlockId>block-1776760934761-rurrvy154</odeBlockId>
+      <blockName>¿Qué es la comunicación en Internet?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mf-aeskixepi</odePageId>
+          <odeBlockId>block-1776760934761-rurrvy154</odeBlockId>
+          <odeIdeviceId>idevice-1776760934758-41o8kfj23</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La comunicación en Internet es un proceso mediante el cual las personas intercambian información, ideas o emociones utilizando herramientas digitales conectadas a la red. No se trata solo de escribir mensajes, sino de interactuar a través de distintos formatos como texto, audio, imagen o vídeo.</p>
+<p style="text-align: justify;">Hoy en día, gran parte de nuestra comunicación diaria ocurre en entornos digitales. Esto incluye desde conversaciones informales con amigos hasta situaciones más formales como enviar un correo electrónico a un profesor, participar en una clase virtual o completar una solicitud en línea.</p>
+<p style="text-align: justify;">Una de las características más importantes de la comunicación en Internet es que no siempre es inmediata ni cara a cara. Esto significa que:</p>
+<ul style="text-align: justify;">
+<li>No vemos las reacciones de la otra persona</li>
+<li>El tono puede interpretarse de forma diferente</li>
+<li>Lo que escribimos puede permanecer en el tiempo</li>
+</ul>
+<p style="text-align: justify;">Además, la comunicación digital es multimodal, es decir, no se basa solo en palabras. Podemos utilizar:</p>
+<ul style="text-align: justify;">
+<li>Emojis para expresar emociones</li>
+<li>Imágenes o vídeos para complementar mensajes</li>
+<li>Audios para comunicarnos de forma más directa<br /></li>
+</ul>
+<p style="text-align: justify;">Sin embargo, esta variedad también implica una mayor responsabilidad. Al no estar físicamente presentes, debemos cuidar especialmente cómo nos expresamos para evitar malentendidos o situaciones negativas.</p>
+<figure class="exe-figure position-center" style="width: 340px;"><img src="{{context_path}}/content/resources/2219415.jpg" width="340" height="340" alt="" />
+<figcaption class="figcaption"><a href="https://www.magnific.com/es/vector-gratis/set-personas-usando-aparatos-tecnologicos_4158907.htm#fromView=search&page=1&position=5&uuid=7e56a5fd-e662-49ec-b97f-98c20d900829&query=comunicaci%C3%B3n+en+Internet" class="title" target="_blank" rel="noopener"><em>Fotografía diseñada por Freepik</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776760934758-41o8kfj23","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La comunicación en Internet es un proceso mediante el cual las personas intercambian información, ideas o emociones utilizando herramientas digitales conectadas a la red. No se trata solo de escribir mensajes, sino de interactuar a través de distintos formatos como texto, audio, imagen o vídeo.</p>\n<p style=\"text-align: justify;\">Hoy en día, gran parte de nuestra comunicación diaria ocurre en entornos digitales. Esto incluye desde conversaciones informales con amigos hasta situaciones más formales como enviar un correo electrónico a un profesor, participar en una clase virtual o completar una solicitud en línea.</p>\n<p style=\"text-align: justify;\">Una de las características más importantes de la comunicación en Internet es que no siempre es inmediata ni cara a cara. Esto significa que:</p>\n<ul style=\"text-align: justify;\">\n<li>No vemos las reacciones de la otra persona</li>\n<li>El tono puede interpretarse de forma diferente</li>\n<li>Lo que escribimos puede permanecer en el tiempo</li>\n</ul>\n<p style=\"text-align: justify;\">Además, la comunicación digital es multimodal, es decir, no se basa solo en palabras. Podemos utilizar:</p>\n<ul style=\"text-align: justify;\">\n<li>Emojis para expresar emociones</li>\n<li>Imágenes o vídeos para complementar mensajes</li>\n<li>Audios para comunicarnos de forma más directa<br /></li>\n</ul>\n<p style=\"text-align: justify;\">Sin embargo, esta variedad también implica una mayor responsabilidad. Al no estar físicamente presentes, debemos cuidar especialmente cómo nos expresamos para evitar malentendidos o situaciones negativas.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 340px;\"><img src=\"{{context_path}}/content/resources/2219415.jpg\" width=\"340\" height=\"340\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.magnific.com/es/vector-gratis/set-personas-usando-aparatos-tecnologicos_4158907.htm#fromView=search&page=1&position=5&uuid=7e56a5fd-e662-49ec-b97f-98c20d900829&query=comunicaci%C3%B3n+en+Internet\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Fotografía diseñada por Freepik</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7mf-aeskixepi</odePageId>
+      <odeBlockId>block-1776761507685-gmono9r4l</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mf-aeskixepi</odePageId>
+          <odeBlockId>block-1776761507685-gmono9r4l</odeBlockId>
+          <odeIdeviceId>idevice-1776761507678-okp53v38n</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1776761507678-okp53v38n" data-evaluationb="false" data-evaluationid="8f29d950-f658-4213-9b8f-e866ca0d46a8"></div>
+            <div id="frmMainContainer-idevice-1776761507678-okp53v38n" class="form-IDevice" data-id="idevice-1776761507678-okp53v38n">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Responde a las preguntas del cuestionario</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1776761507678-okp53v38n">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1776761507678-okp53v38n" style="display:none;">
+                      <button  id="frmStartGame-idevice-1776761507678-okp53v38n" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1776761507678-okp53v38n" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1776761507678-okp53v38n" > </div>
+                        <div id="frmCover-idevice-1776761507678-okp53v38n" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1776761507678-okp53v38n" class="form-results-container inline">
+                        <div id="form-score-idevice-1776761507678-okp53v38n" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1776761507678-okp53v38n" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1776761507678-okp53v38n" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1776761507678-okp53v38n" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1776761507678-okp53v38n" type="button" value="Reiniciar"
+                            data-id="idevice-1776761507678-okp53v38n" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1776761507678-okp53v38n" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1776761507678-okp53v38n" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1776761507678-okp53v38n" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776761507678-okp53v38n","evaluation":false,"evaluationID":"8f29d950-f658-4213-9b8f-e866ca0d46a8","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1776761507678-okp53v38n","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Responde a las preguntas del cuestionario</p>","questionsData":[{"id":"1776761641929-YL39N","activityType":"fill","baseText":"<p>Reflexiona y escribe tres formas en las que te comunicas por Internet.</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[],"answer":"1","capitalization":true,"strict":true,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7mf-aeskixepi</odePageId>
+      <odeBlockId>block-1776948138263-9eao8d3ku</odeBlockId>
+      <blockName>Relaciona</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mf-aeskixepi</odePageId>
+          <odeBlockId>block-1776948138263-9eao8d3ku</odeBlockId>
+          <odeIdeviceId>idevice-1776948138260-tgatvmqnu</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>Relaciona cada tarjeta con su pareja.</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>Relaciona cada tarjeta con su pareja.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Comunicaci%C3%B3n%20en%20Internet","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Intercambio%20de%20informaci%C3%B3n%20mediante%20herramientas%20digitales"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Comunicaci%C3%B3n%20digital","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Ocurre%20en%20entornos%20digitales"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Multimodal","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Uso%20de%20distintos%20formatos"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Emojis","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Expresar%20emociones"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Im%C3%A1genes%2Fv%C3%ADdeos","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Complementar%20mensajes"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Audios","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Forma%20m%C3%A1s%20directa%20de%20comunicaci%C3%B3n"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"No%20vemos%20reacciones","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Puede%20haber%20malentendidos"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"El%20tono%20puede%20interpretarse%20de%20forma%20diferente","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Riesgo%20de%20confusi%C3%B3n"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Permanece%20en%20el%20tiempo","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Mayor%20responsabilidad"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"406566a9-4977-4248-a846-76069f3745b2","id":"idevice-1776948138260-tgatvmqnu","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1776948138260-tgatvmqnu" data-evaluationb="false" data-evaluationid="406566a9-4977-4248-a846-76069f3745b2"></div><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+  <odeParentPageId>page-moizu7mb-1ei1expqx</odeParentPageId>
+  <pageName>2. ¿En qué contextos y para qué me puedo comunicar en Internet?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¿En qué contextos y para qué me puedo comunicar en Internet?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¿En qué contextos y para qué me puedo comunicar en Internet?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. ¿En qué contextos y para qué me puedo comunicar en Internet?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+      <odeBlockId>block-1776762750638-3h27c2sgp</odeBlockId>
+      <blockName>Contextos digitales en los que nos comunicamos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+          <odeBlockId>block-1776762750638-3h27c2sgp</odeBlockId>
+          <odeIdeviceId>idevice-1776762750633-dt9av86a9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Cuando nos comunicamos en Internet, no siempre lo hacemos de la misma manera ni con el mismo objetivo. Existen distintos contextos comunicativos, y cada uno de ellos requiere un tipo de lenguaje diferente.</p>
+<p style="text-align: justify;">Podemos distinguir, de forma general, varios contextos en los que utilizamos la comunicación digital.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776762750633-dt9av86a9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Cuando nos comunicamos en Internet, no siempre lo hacemos de la misma manera ni con el mismo objetivo. Existen distintos contextos comunicativos, y cada uno de ellos requiere un tipo de lenguaje diferente.</p>\n<p style=\"text-align: justify;\">Podemos distinguir, de forma general, varios contextos en los que utilizamos la comunicación digital.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+      <odeBlockId>block-1776761913908-eua9kkggg</odeBlockId>
+      <blockName>1. Contexto personal o informal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+          <odeBlockId>block-1776761913908-eua9kkggg</odeBlockId>
+          <odeIdeviceId>idevice-1776761913906-lffgrr1oa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es el que utilizamos en nuestra vida diaria para comunicarnos con amigos, familia o personas cercanas. Algunos ejemplos son: </p>
+<ul>
+<li>Chats de WhatsApp</li>
+<li>Mensajes en redes sociales</li>
+<li>Comentarios entre amigos</li>
+</ul>
+<p>En este contexto, el lenguaje suele ser:</p>
+<ul>
+<li>Más espontáneo</li>
+<li>Más rápido</li>
+<li>Menos cuidado (se incluyen abreviaturas, emojis, etc.)</li>
+</ul>
+<p>Su finalidad principal es relacionarnos, compartir y expresar emociones.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776761913906-lffgrr1oa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es el que utilizamos en nuestra vida diaria para comunicarnos con amigos, familia o personas cercanas. Algunos ejemplos son: </p>\n<ul>\n<li>Chats de WhatsApp</li>\n<li>Mensajes en redes sociales</li>\n<li>Comentarios entre amigos</li>\n</ul>\n<p>En este contexto, el lenguaje suele ser:</p>\n<ul>\n<li>Más espontáneo</li>\n<li>Más rápido</li>\n<li>Menos cuidado (se incluyen abreviaturas, emojis, etc.)</li>\n</ul>\n<p>Su finalidad principal es relacionarnos, compartir y expresar emociones.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+      <odeBlockId>block-1776763154692-5vowmiv10</odeBlockId>
+      <blockName>2. Contexto académico</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+          <odeBlockId>block-1776763154692-5vowmiv10</odeBlockId>
+          <odeIdeviceId>idevice-1776763154690-b82dpg7hu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se utiliza en situaciones relacionadas con los estudios.</p>
+<p>Ejemplos:</p>
+<ul>
+<li>Escribir a un profesor</li>
+<li>Enviar tareas</li>
+<li>Participar en plataformas educativas<br /></li>
+</ul>
+<p>Aquí el lenguaje debe ser:</p>
+<ul>
+<li>Más claro</li>
+<li>Más correcto</li>
+<li>Respetuoso</li>
+</ul>
+<p>El objetivo de esta comunicación es aprender, preguntar, explicar o demostrar conocimientos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776763154690-b82dpg7hu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se utiliza en situaciones relacionadas con los estudios.</p>\n<p>Ejemplos:</p>\n<ul>\n<li>Escribir a un profesor</li>\n<li>Enviar tareas</li>\n<li>Participar en plataformas educativas<br /></li>\n</ul>\n<p>Aquí el lenguaje debe ser:</p>\n<ul>\n<li>Más claro</li>\n<li>Más correcto</li>\n<li>Respetuoso</li>\n</ul>\n<p>El objetivo de esta comunicación es aprender, preguntar, explicar o demostrar conocimientos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+      <odeBlockId>block-1776763314930-1uggh3mf0</odeBlockId>
+      <blockName>3. Contexto formal o profesional</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+          <odeBlockId>block-1776763314930-1uggh3mf0</odeBlockId>
+          <odeIdeviceId>idevice-1776763314926-051d3ya0y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Es el que se utiliza en situaciones más serias o institucionales.</p>
+<p>Ejemplos:</p>
+<ul>
+<li>Correos electrónicos formales</li>
+<li>Solicitudes o instancias</li>
+<li>Comunicación con empresas o instituciones</li>
+</ul>
+<p>En este caso, el lenguaje debe ser:</p>
+<ul>
+<li>Formal</li>
+<li>Estructurado</li>
+<li>Sin abreviaturas</li>
+<li>Con corrección ortográfica</li>
+</ul>
+<p>Su finalidad es informar, solicitar, o comunicarse de manera adecuada en entornos oficiales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776763314926-051d3ya0y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Es el que se utiliza en situaciones más serias o institucionales.</p>\n<p>Ejemplos:</p>\n<ul>\n<li>Correos electrónicos formales</li>\n<li>Solicitudes o instancias</li>\n<li>Comunicación con empresas o instituciones</li>\n</ul>\n<p>En este caso, el lenguaje debe ser:</p>\n<ul>\n<li>Formal</li>\n<li>Estructurado</li>\n<li>Sin abreviaturas</li>\n<li>Con corrección ortográfica</li>\n</ul>\n<p>Su finalidad es informar, solicitar, o comunicarse de manera adecuada en entornos oficiales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+      <odeBlockId>block-1776763402616-yojihj4tq</odeBlockId>
+      <blockName>4. Contexto público en Internet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+          <odeBlockId>block-1776763402616-yojihj4tq</odeBlockId>
+          <odeIdeviceId>idevice-1776763402613-4u8wyyc1h</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se refiere a todo lo que publicamos de forma visible para otras personas en Internet.</p>
+<p>Algunos ejemplos:</p>
+<ul>
+<li>Publicaciones en redes sociales</li>
+<li>Comentarios en vídeos</li>
+<li>Opiniones en foros</li>
+</ul>
+<p>Aquí es especialmente importante tener en cuenta que:</p>
+<ul>
+<li>El mensaje puede ser visto por muchas personas</li>
+<li>Puede permanecer en el tiempo en la red</li>
+<li>Puede ser interpretado de distintas formas</li>
+</ul>
+<p><br />Su objetivo puede ser informar, opinar o compartir contenido, pero siempre con responsabilidad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776763402613-4u8wyyc1h","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se refiere a todo lo que publicamos de forma visible para otras personas en Internet.</p>\n<p>Algunos ejemplos:</p>\n<ul>\n<li>Publicaciones en redes sociales</li>\n<li>Comentarios en vídeos</li>\n<li>Opiniones en foros</li>\n</ul>\n<p>Aquí es especialmente importante tener en cuenta que:</p>\n<ul>\n<li>El mensaje puede ser visto por muchas personas</li>\n<li>Puede permanecer en el tiempo en la red</li>\n<li>Puede ser interpretado de distintas formas</li>\n</ul>\n<p><br />Su objetivo puede ser informar, opinar o compartir contenido, pero siempre con responsabilidad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+      <odeBlockId>block-1776763486609-e4c4wq3jt</odeBlockId>
+      <blockName>Pon a prueba lo aprendido</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>5</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7ml-30vcvzun6</odePageId>
+          <odeBlockId>block-1776763486609-e4c4wq3jt</odeBlockId>
+          <odeIdeviceId>idevice-1776763486606-q6073iu6t</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1776763486606-q6073iu6t" data-evaluationb="false" data-evaluationid="f2781457-3a61-4044-beb0-791ec86fb085"></div>
+            <div id="frmMainContainer-idevice-1776763486606-q6073iu6t" class="form-IDevice" data-id="idevice-1776763486606-q6073iu6t">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Relaciona cada situación con el tipo de contexto que corresponda:</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1776763486606-q6073iu6t">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1776763486606-q6073iu6t" style="display:none;">
+                      <button  id="frmStartGame-idevice-1776763486606-q6073iu6t" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1776763486606-q6073iu6t" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1776763486606-q6073iu6t" > </div>
+                        <div id="frmCover-idevice-1776763486606-q6073iu6t" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1776763486606-q6073iu6t" class="form-results-container inline">
+                        <div id="form-score-idevice-1776763486606-q6073iu6t" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1776763486606-q6073iu6t" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1776763486606-q6073iu6t" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1776763486606-q6073iu6t" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1776763486606-q6073iu6t" type="button" value="Reiniciar"
+                            data-id="idevice-1776763486606-q6073iu6t" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1776763486606-q6073iu6t" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1776763486606-q6073iu6t" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1776763486606-q6073iu6t" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776763486606-q6073iu6t","evaluation":false,"evaluationID":"f2781457-3a61-4044-beb0-791ec86fb085","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1776763486606-q6073iu6t","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Relaciona cada situación con el tipo de contexto que corresponda:</p>","questionsData":[{"id":"1776763641170-XLTL7","activityType":"selection","baseText":"<p>Escribir a un profesor para pedir información</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Contexto personal o informal"],[false,"Contexto público en Internet"],[false,"Contexto formal o profesional"],[true,"Contexto académico"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776763732871-ZMJ7G","activityType":"selection","baseText":"<p>Mandar un audio a un amigo</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Contexto académico"],[false,"Contexto formal o profesional"],[true,"Contexto personal o informal"],[false,"Contexto público en Internet"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776765667036-REY00","activityType":"selection","baseText":"<p>Publicar un comentario en TikTok</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"Contexto público en Internet"],[false,"Contexto personal o informal"],[false,"Contexto académico"],[false,"Contexto formal o profesional"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1776765764865-7GM1O","activityType":"selection","baseText":"<p>Enviar una solicitud a una institución</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Contexto académico"],[true,"Contexto formal o profesional"],[false,"Contexto público en Internet"],[false,"Contexto personal e informal"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moizu7mo-gr8texmzp</odePageId>
+  <odeParentPageId>page-moizu7mb-1ei1expqx</odeParentPageId>
+  <pageName>3. ¿Cómo es la comunicación en función del contexto?</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. ¿Cómo es la comunicación en función del contexto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. ¿Cómo es la comunicación en función del contexto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moizu7mo-gr8texmzp</odePageId>
+      <odeBlockId>block-1776765982164-z4jefj7c2</odeBlockId>
+      <blockName>La comunicación en función del contexto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mo-gr8texmzp</odePageId>
+          <odeBlockId>block-1776765982164-z4jefj7c2</odeBlockId>
+          <odeIdeviceId>idevice-1776765982162-wowa83s8o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Como hemos visto, no nos comunicamos igual en todas las situaciones. El lenguaje cambia según el contexto, el destinatario y la intención. Saber adaptar nuestra forma de comunicarnos es fundamental para evitar malentendidos y expresarnos de manera adecuada.</p>
+<figure class="exe-figure position-center" style="width: 492px;"><img src="{{context_path}}/content/resources/v872batch5-nunny-04.jpg" width="492" height="492" alt="" />
+<figcaption class="figcaption"><a href="https://www.magnific.com/es/vector-gratis/hombres-hablando-taza-telefono-aislamiento-social_13313319.htm#fromView=search&page=1&position=0&uuid=d97c36e1-3bc2-4b39-9aed-bea7b02e9cee&query=comunicaci%C3%B3n" class="title" target="_blank" rel="noopener"><em>Fotografía diseñada por Freepik</em></a> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+<p>A continuación, vamos a ver cómo varía el lenguaje según el contexto.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776765982162-wowa83s8o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Como hemos visto, no nos comunicamos igual en todas las situaciones. El lenguaje cambia según el contexto, el destinatario y la intención. Saber adaptar nuestra forma de comunicarnos es fundamental para evitar malentendidos y expresarnos de manera adecuada.</p>\n<figure class=\"exe-figure position-center\" style=\"width: 492px;\"><img src=\"{{context_path}}/content/resources/v872batch5-nunny-04.jpg\" width=\"492\" height=\"492\" alt=\"\" />\n<figcaption class=\"figcaption\"><a href=\"https://www.magnific.com/es/vector-gratis/hombres-hablando-taza-telefono-aislamiento-social_13313319.htm#fromView=search&page=1&position=0&uuid=d97c36e1-3bc2-4b39-9aed-bea7b02e9cee&query=comunicaci%C3%B3n\" class=\"title\" target=\"_blank\" rel=\"noopener\"><em>Fotografía diseñada por Freepik</em></a> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p>A continuación, vamos a ver cómo varía el lenguaje según el contexto.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7mo-gr8texmzp</odePageId>
+      <odeBlockId>block-1776766084559-9pbaym68m</odeBlockId>
+      <blockName>Lenguaje informal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mo-gr8texmzp</odePageId>
+          <odeBlockId>block-1776766084559-9pbaym68m</odeBlockId>
+          <odeIdeviceId>idevice-1776766084556-7ja8rqxqk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se utiliza en contextos cercanos, como cuando hablamos con amigos o familiares.</p>
+<p>Sus características principales son:</p>
+<ul>
+<li>Uso de abreviaturas (“q”, “xq”, “tmb”)</li>
+<li>Empleo de emojis 😊😂</li>
+<li>Frases cortas y rápidas</li>
+<li>Tono cercano y espontáneo</li>
+<li>Menor preocupación por la corrección</li>
+</ul>
+<p>Este tipo de lenguaje es útil porque permite comunicarnos de forma rápida y natural, pero no es adecuado en todos los contextos.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776766084556-7ja8rqxqk","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se utiliza en contextos cercanos, como cuando hablamos con amigos o familiares.</p>\n<p>Sus características principales son:</p>\n<ul>\n<li>Uso de abreviaturas (“q”, “xq”, “tmb”)</li>\n<li>Empleo de emojis 😊😂</li>\n<li>Frases cortas y rápidas</li>\n<li>Tono cercano y espontáneo</li>\n<li>Menor preocupación por la corrección</li>\n</ul>\n<p>Este tipo de lenguaje es útil porque permite comunicarnos de forma rápida y natural, pero no es adecuado en todos los contextos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7mo-gr8texmzp</odePageId>
+      <odeBlockId>block-1776766169614-hjs3lc1hf</odeBlockId>
+      <blockName>Lenguaje formal</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mo-gr8texmzp</odePageId>
+          <odeBlockId>block-1776766169614-hjs3lc1hf</odeBlockId>
+          <odeIdeviceId>idevice-1776766169611-lgpt2fw03</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se utiliza en situaciones académicas o profesionales, cuando nos dirigimos a personas con las que no tenemos confianza o en contextos más serios.</p>
+<p>Sus características son:</p>
+<ul>
+<li>Corrección ortográfica y gramatical</li>
+<li>Uso de un vocabulario más cuidado</li>
+<li>Frases completas y bien estructuradas</li>
+<li>Ausencia de abreviaturas o emojis</li>
+<li>Tono respetuoso</li>
+</ul>
+<p>Este tipo de lenguaje transmite seriedad, respeto y claridad.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776766169611-lgpt2fw03","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se utiliza en situaciones académicas o profesionales, cuando nos dirigimos a personas con las que no tenemos confianza o en contextos más serios.</p>\n<p>Sus características son:</p>\n<ul>\n<li>Corrección ortográfica y gramatical</li>\n<li>Uso de un vocabulario más cuidado</li>\n<li>Frases completas y bien estructuradas</li>\n<li>Ausencia de abreviaturas o emojis</li>\n<li>Tono respetuoso</li>\n</ul>\n<p>Este tipo de lenguaje transmite seriedad, respeto y claridad.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7mo-gr8texmzp</odePageId>
+      <odeBlockId>block-1776766621079-cpphfgwlt</odeBlockId>
+      <blockName>El tono, la claridad y la intención del mensaje</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mo-gr8texmzp</odePageId>
+          <odeBlockId>block-1776766621079-cpphfgwlt</odeBlockId>
+          <odeIdeviceId>idevice-1776766621074-ggpkip9r7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Cuando nos comunicamos en Internet, no solo importa lo que decimos, sino <strong>cómo lo decimos</strong> y <strong>con qué intención</strong>. A diferencia de la comunicación cara a cara, en los entornos digitales no contamos con gestos, miradas o entonación de la voz, por lo que el mensaje puede interpretarse de formas diferentes a las que pretendíamos.</p>
+<p style="text-align: justify;">Por eso, es fundamental que nuestros mensajes sean <strong>claros</strong>, <strong>adecuados al contexto</strong> y <strong>respetuosos</strong>. Un mismo contenido puede generar sensaciones distintas según cómo se exprese. Por ejemplo, un mensaje muy breve o sin elementos que indiquen el tono puede parecer frío, brusco o incluso enfadado, aunque no sea esa la intención.</p>
+<p style="text-align: justify;">Antes de enviar un mensaje, conviene preguntarse si se entenderá bien, si es apropiado para la situación y si puede ser interpretado de forma negativa. Cuidar estos aspectos ayuda a evitar malentendidos y a mejorar nuestra comunicación en entornos digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776766621074-ggpkip9r7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Cuando nos comunicamos en Internet, no solo importa lo que decimos, sino <strong>cómo lo decimos</strong> y <strong>con qué intención</strong>. A diferencia de la comunicación cara a cara, en los entornos digitales no contamos con gestos, miradas o entonación de la voz, por lo que el mensaje puede interpretarse de formas diferentes a las que pretendíamos.</p>\n<p style=\"text-align: justify;\">Por eso, es fundamental que nuestros mensajes sean <strong>claros</strong>, <strong>adecuados al contexto</strong> y <strong>respetuosos</strong>. Un mismo contenido puede generar sensaciones distintas según cómo se exprese. Por ejemplo, un mensaje muy breve o sin elementos que indiquen el tono puede parecer frío, brusco o incluso enfadado, aunque no sea esa la intención.</p>\n<p style=\"text-align: justify;\">Antes de enviar un mensaje, conviene preguntarse si se entenderá bien, si es apropiado para la situación y si puede ser interpretado de forma negativa. Cuidar estos aspectos ayuda a evitar malentendidos y a mejorar nuestra comunicación en entornos digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7mo-gr8texmzp</odePageId>
+      <odeBlockId>block-1777398867927-llfa0ggco</odeBlockId>
+      <blockName>Para ampliar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mo-gr8texmzp</odePageId>
+          <odeBlockId>block-1777398867927-llfa0ggco</odeBlockId>
+          <odeIdeviceId>idevice-1777398867925-0kycdbuxj</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Si no te ha quedado claro, a continuación podrás visualizar un vídeo en el que se explica qué es el contexto en la comunicación. </p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/OlSfAI2pskc" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777398867925-0kycdbuxj","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Si no te ha quedado claro, a continuación podrás visualizar un vídeo en el que se explica qué es el contexto en la comunicación. </p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/OlSfAI2pskc\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moizu7mq-efy489c2g</odePageId>
+  <odeParentPageId>page-moizu7mb-1ei1expqx</odeParentPageId>
+  <pageName>4. ¿Cuáles son los peligros de comunicarse por Internet?</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. ¿Cuáles son los peligros de comunicarse por Internet?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. ¿Cuáles son los peligros de comunicarse por Internet?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moizu7mq-efy489c2g</odePageId>
+      <odeBlockId>block-1776768067677-9br3ya1y0</odeBlockId>
+      <blockName>Peligros de la comunicación en Internet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mq-efy489c2g</odePageId>
+          <odeBlockId>block-1776768067677-9br3ya1y0</odeBlockId>
+          <odeIdeviceId>idevice-1776768067666-78sj4wfam</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La comunicación en Internet tiene muchas ventajas, pero también implica ciertos riesgos que es importante conocer para poder evitarlos.</p>
+<p style="text-align: justify;">Uno de los problemas más frecuentes son los <strong>malentendidos</strong>. Al no ver la cara ni escuchar la voz de la otra persona, un mensaje puede interpretarse de forma distinta a como se pretendía. Algo que para una persona es una broma, para otra puede resultar ofensivo o inapropiado, lo que puede generar conflictos innecesarios.</p>
+<p style="text-align: justify;">Además, el hecho de estar detrás de una pantalla hace que algunas personas utilicen un <strong>lenguaje más agresivo o irrespetuoso</strong> del que usarían en una conversación cara a cara. Esto puede dar lugar a situaciones de <strong>falta de respeto</strong> o incluso <strong>ciberacoso</strong>, que pueden afectar seriamente a quienes lo sufren.</p>
+<p style="text-align: justify;">Otro aspecto muy importante es la <strong>huella digital</strong>. Todo lo que escribimos o compartimos en Internet puede quedar registrado, incluso aunque lo eliminemos. Esto significa que mensajes, imágenes o comentarios pueden reaparecer en el futuro y afectar a nuestra imagen personal, académica o profesional.</p>
+<p style="text-align: justify;">Por último, también existe el riesgo de <strong>compartir información sin pensar en las consecuencias</strong>. Publicar datos personales, opiniones impulsivas o contenidos inadecuados puede exponernos a situaciones problemáticas o perjudiciales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776768067666-78sj4wfam","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La comunicación en Internet tiene muchas ventajas, pero también implica ciertos riesgos que es importante conocer para poder evitarlos.</p>\n<p style=\"text-align: justify;\">Uno de los problemas más frecuentes son los <strong>malentendidos</strong>. Al no ver la cara ni escuchar la voz de la otra persona, un mensaje puede interpretarse de forma distinta a como se pretendía. Algo que para una persona es una broma, para otra puede resultar ofensivo o inapropiado, lo que puede generar conflictos innecesarios.</p>\n<p style=\"text-align: justify;\">Además, el hecho de estar detrás de una pantalla hace que algunas personas utilicen un <strong>lenguaje más agresivo o irrespetuoso</strong> del que usarían en una conversación cara a cara. Esto puede dar lugar a situaciones de <strong>falta de respeto</strong> o incluso <strong>ciberacoso</strong>, que pueden afectar seriamente a quienes lo sufren.</p>\n<p style=\"text-align: justify;\">Otro aspecto muy importante es la <strong>huella digital</strong>. Todo lo que escribimos o compartimos en Internet puede quedar registrado, incluso aunque lo eliminemos. Esto significa que mensajes, imágenes o comentarios pueden reaparecer en el futuro y afectar a nuestra imagen personal, académica o profesional.</p>\n<p style=\"text-align: justify;\">Por último, también existe el riesgo de <strong>compartir información sin pensar en las consecuencias</strong>. Publicar datos personales, opiniones impulsivas o contenidos inadecuados puede exponernos a situaciones problemáticas o perjudiciales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7mq-efy489c2g</odePageId>
+      <odeBlockId>block-1776768212777-67rc6m0xf</odeBlockId>
+      <blockName>Actividad de reflexión</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mq-efy489c2g</odePageId>
+          <odeBlockId>block-1776768212777-67rc6m0xf</odeBlockId>
+          <odeIdeviceId>idevice-1776768212774-fmgc9c5vq</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Reflexiona sobre las siguientes preguntas. Cuando lo hayas hecho, pondremos las respuestas en común en el aula.</p>
+<p>¿Por qué crees que en Internet se producen malentendidos?</p>
+<p>¿Qué consecuencias puede tener lo que publicamos?</p>
+<p>¿Crees que la gente es siempre consciente de esto?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776768212774-fmgc9c5vq","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Reflexiona sobre las siguientes preguntas. Cuando lo hayas hecho, pondremos las respuestas en común en el aula.</p>\n<p>¿Por qué crees que en Internet se producen malentendidos?</p>\n<p>¿Qué consecuencias puede tener lo que publicamos?</p>\n<p>¿Crees que la gente es siempre consciente de esto?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7mq-efy489c2g</odePageId>
+      <odeBlockId>block-1776768442801-vvebh70uf</odeBlockId>
+      <blockName>Algunas claves para comprender la comunicación en Internet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mq-efy489c2g</odePageId>
+          <odeBlockId>block-1776768442801-vvebh70uf</odeBlockId>
+          <odeIdeviceId>idevice-1776768442797-tpdkkqqh9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación vamos a visualizar un vídeo que nos ofrece algunas claves y consejos para comprender mejor la comunicación en Internet.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/OG55H1pcgf4" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776768442797-tpdkkqqh9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación vamos a visualizar un vídeo que nos ofrece algunas claves y consejos para comprender mejor la comunicación en Internet.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/OG55H1pcgf4\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moizu7ms-ogeu6ag5u</odePageId>
+  <odeParentPageId>page-moizu7mb-1ei1expqx</odeParentPageId>
+  <pageName>5. Creamos nuestra propia infografía</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Creamos nuestra propia infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Creamos nuestra propia infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Creamos nuestra propia infografía</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moizu7ms-ogeu6ag5u</odePageId>
+      <odeBlockId>block-1776768619273-0pjm1peoh</odeBlockId>
+      <blockName>Actividad: Infografía sobre la comunicación en Internet</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7ms-ogeu6ag5u</odePageId>
+          <odeBlockId>block-1776768619273-0pjm1peoh</odeBlockId>
+          <odeIdeviceId>idevice-1776768619272-2fzf4yx3n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Ahora que ya conocéis los distintos tipos de comunicación en Internet y algunos de sus riesgos, vais a crear de forma grupal una infografía en la que expondréis de forma breve en qué consiste esta comunicación y proporcionaréis entre cinco y diez consejos para que la gente pueda comunicarse de forma efectiva. A continuación encontraréis las instrucciones necesarias para poder hacerla:</p>
+<ul>
+<li style="text-align: justify;">Explica de forma breve y concisa en qué consiste la comunicación en Internet</li>
+<li style="text-align: justify;">Escribe entre cinco y 10 consejos para que la gente pueda comunicarse adecuadamente</li>
+<li style="text-align: justify;">Incluye al menos un elemento multimedia en tu infografía </li>
+<li style="text-align: justify;">Puedes realizarla en <em>Canva</em> (plataforma más recomendanle), <em>Genially</em> o <em>PowerPoint</em><br /></li>
+<li style="text-align: justify;">El producto final debe ser enviado por <strong>correo electrónico</strong> o <strong>Teams</strong>.</li>
+</ul>
+<p>A continuación podéis consultar la rúbrica que se utilizará para evaluar esta actividad y que os podrá servir de guía para realizarla. Se evaluará el producto final y el proceso de elaboración del mismo en el aula.</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-21 132625.png" width="478" height="153" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776768619272-2fzf4yx3n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Ahora que ya conocéis los distintos tipos de comunicación en Internet y algunos de sus riesgos, vais a crear de forma grupal una infografía en la que expondréis de forma breve en qué consiste esta comunicación y proporcionaréis entre cinco y diez consejos para que la gente pueda comunicarse de forma efectiva. A continuación encontraréis las instrucciones necesarias para poder hacerla:</p>\n<ul>\n<li style=\"text-align: justify;\">Explica de forma breve y concisa en qué consiste la comunicación en Internet</li>\n<li style=\"text-align: justify;\">Escribe entre cinco y 10 consejos para que la gente pueda comunicarse adecuadamente</li>\n<li style=\"text-align: justify;\">Incluye al menos un elemento multimedia en tu infografía </li>\n<li style=\"text-align: justify;\">Puedes realizarla en <em>Canva</em> (plataforma más recomendanle), <em>Genially</em> o <em>PowerPoint</em><br /></li>\n<li style=\"text-align: justify;\">El producto final debe ser enviado por <strong>correo electrónico</strong> o <strong>Teams</strong>.</li>\n</ul>\n<p>A continuación podéis consultar la rúbrica que se utilizará para evaluar esta actividad y que os podrá servir de guía para realizarla. Se evaluará el producto final y el proceso de elaboración del mismo en el aula.</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-21 132625.png\" width=\"478\" height=\"153\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-moizu7ms-ogeu6ag5u</odePageId>
+      <odeBlockId>block-1777399986288-cr23ys1j8</odeBlockId>
+      <blockName>¿Qué es una inforgafía?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7ms-ogeu6ag5u</odePageId>
+          <odeBlockId>block-1777399986288-cr23ys1j8</odeBlockId>
+          <odeIdeviceId>idevice-1777399986286-ay43lcxy2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación puedes visualizar un vídeo en el que se explica qué es una infografía y en el que podrás ver algún ejemplo para inspirarte.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/bBEOswFcqaY" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777399986286-ay43lcxy2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación puedes visualizar un vídeo en el que se explica qué es una infografía y en el que podrás ver algún ejemplo para inspirarte.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/bBEOswFcqaY\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moizu7mt-w4tbvff0u</odePageId>
+  <odeParentPageId>page-moizu7mb-1ei1expqx</odeParentPageId>
+  <pageName>6. El podcast de la comunicación online</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. El podcast de la comunicación online</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El podcast de la comunicación online</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. El podcast de la comunicación online</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moizu7mt-w4tbvff0u</odePageId>
+      <odeBlockId>block-1776771609485-pqu9szih0</odeBlockId>
+      <blockName>Actividad: creación de un podcast</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mt-w4tbvff0u</odePageId>
+          <odeBlockId>block-1776771609485-pqu9szih0</odeBlockId>
+          <odeIdeviceId>idevice-1776771609477-rxysv21me</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">En grupos, vais a crear un breve podcast en el que reflexionaréis sobre los tipos de comunicación que realizan los jóvenes en Internet. El objetivo es analizar cómo os comunicáis en entornos digitales y reflexionar sobre los riesgos que implica, el uso responsable del lenguaje y las buenas prácticas.</p>
+<ul>
+<li style="text-align: justify;">El podcast debe dividirse en <strong>Introducción</strong>, <strong>reflexión sobre la comunicación en Internet</strong>. <strong>riesgos y problemas</strong> y <strong>consejos finales</strong>.</li>
+<li style="text-align: justify;">Todos los miembros del grupo deben participar.</li>
+<li style="text-align: justify;">Podéis grabar el Podcast utilizando <em>Spotify para podcasters</em>, <em>Canva</em>, <em>Power Point</em> o la grabadora del dispositivo móvil.</li>
+<li style="text-align: justify;">Debe tener una duración de entre tres y cuatro minutos.</li>
+<li style="text-align: justify;">El producto final debe ser enviado por <strong>correo electrónico</strong> o <strong>Teams</strong>.</li>
+</ul>
+<p>A continuación podéis ver la rúbrica que evaluará vuestro podcast. Se evaluará tanto el proceso, como el producto final.</p>
+<p><img src="{{context_path}}/content/resources/Captura de pantalla 2026-04-21 152411.png" width="904" height="465" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>Asimismo, se incluye un vídeo en el que se explica qué es un podcast y los tipos más comunes.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/y-8w9oVqI18" allowfullscreen="allowfullscreen"></iframe></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776771609477-rxysv21me","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">En grupos, vais a crear un breve podcast en el que reflexionaréis sobre los tipos de comunicación que realizan los jóvenes en Internet. El objetivo es analizar cómo os comunicáis en entornos digitales y reflexionar sobre los riesgos que implica, el uso responsable del lenguaje y las buenas prácticas.</p>\n<ul>\n<li style=\"text-align: justify;\">El podcast debe dividirse en <strong>Introducción</strong>, <strong>reflexión sobre la comunicación en Internet</strong>. <strong>riesgos y problemas</strong> y <strong>consejos finales</strong>.</li>\n<li style=\"text-align: justify;\">Todos los miembros del grupo deben participar.</li>\n<li style=\"text-align: justify;\">Podéis grabar el Podcast utilizando <em>Spotify para podcasters</em>, <em>Canva</em>, <em>Power Point</em> o la grabadora del dispositivo móvil.</li>\n<li style=\"text-align: justify;\">Debe tener una duración de entre tres y cuatro minutos.</li>\n<li style=\"text-align: justify;\">El producto final debe ser enviado por <strong>correo electrónico</strong> o <strong>Teams</strong>.</li>\n</ul>\n<p>A continuación podéis ver la rúbrica que evaluará vuestro podcast. Se evaluará tanto el proceso, como el producto final.</p>\n<p><img src=\"{{context_path}}/content/resources/Captura de pantalla 2026-04-21 152411.png\" width=\"904\" height=\"465\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>Asimismo, se incluye un vídeo en el que se explica qué es un podcast y los tipos más comunes.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/y-8w9oVqI18\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moizu7mu-as3qil72p</odePageId>
+  <odeParentPageId>page-moizu7mb-1ei1expqx</odeParentPageId>
+  <pageName>7. Glosario de términos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Glosario de términos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Glosario de términos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moizu7mu-as3qil72p</odePageId>
+      <odeBlockId>block-1776945828961-nzrnzxc4u</odeBlockId>
+      <blockName>Glosario de términos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mu-as3qil72p</odePageId>
+          <odeBlockId>block-1776945828961-nzrnzxc4u</odeBlockId>
+          <odeIdeviceId>idevice-1776945828960-tjel2w652</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">A continuación podéis encontrar un glosario con algunos de los términos con los que trabajaréis a lo largo de esta situación de aprendizaje:</p>
+<ul>
+<li style="text-align: justify;"><strong>Ciberacoso</strong>: uso de medios digitales para molestar, dañar o acosar a otras personas.</li>
+<li style="text-align: justify;"><strong>Comunicación en Internet</strong>: intercambio de información, ideas o emociones mediante herramientas digitales conectadas a la red.</li>
+<li style="text-align: justify;"><strong>Huella digital</strong>: rastro que dejamos en Internet con lo que publicamos o compartimos.</li>
+<li style="text-align: justify;"><strong>Infografía</strong>: representación visual de información que combina texto e imágenes para explicar un contenido de forma clara y resumida.</li>
+<li style="text-align: justify;"><strong>Interpretación del mensaje</strong>: manera en la que una persona entiende lo que otra ha escrito o enviado.</li>
+<li style="text-align: justify;"><strong>Malentendido</strong>: confusión que ocurre cuando un mensaje no se interpreta como se pretendía.</li>
+<li style="text-align: justify;"><strong>Multimodal</strong>: que utiliza distintos formatos como texto, audio, imagen o vídeo.</li>
+<li style="text-align: justify;"><strong>Podcast</strong>: contenido de audio digital que se puede escuchar en Internet, normalmente organizado en episodios. Se asemeja a un programa de radio, pero el podcast puede ser escuchado en cualquier momento. Al igual que los vídeos, permanece grabado.</li>
+<li style="text-align: justify;"><strong>Responsabilidad en la comunicación digital</strong>: necesidad de cuidar cómo nos expresamos en Internet debido a sus características.</li>
+<li style="text-align: justify;"><strong>Tono (en comunicación digital)</strong>: forma en la que puede interpretarse un mensaje, que puede variar al no ser cara a cara.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1776945828960-tjel2w652","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">A continuación podéis encontrar un glosario con algunos de los términos con los que trabajaréis a lo largo de esta situación de aprendizaje:</p>\n<ul>\n<li style=\"text-align: justify;\"><strong>Ciberacoso</strong>: uso de medios digitales para molestar, dañar o acosar a otras personas.</li>\n<li style=\"text-align: justify;\"><strong>Comunicación en Internet</strong>: intercambio de información, ideas o emociones mediante herramientas digitales conectadas a la red.</li>\n<li style=\"text-align: justify;\"><strong>Huella digital</strong>: rastro que dejamos en Internet con lo que publicamos o compartimos.</li>\n<li style=\"text-align: justify;\"><strong>Infografía</strong>: representación visual de información que combina texto e imágenes para explicar un contenido de forma clara y resumida.</li>\n<li style=\"text-align: justify;\"><strong>Interpretación del mensaje</strong>: manera en la que una persona entiende lo que otra ha escrito o enviado.</li>\n<li style=\"text-align: justify;\"><strong>Malentendido</strong>: confusión que ocurre cuando un mensaje no se interpreta como se pretendía.</li>\n<li style=\"text-align: justify;\"><strong>Multimodal</strong>: que utiliza distintos formatos como texto, audio, imagen o vídeo.</li>\n<li style=\"text-align: justify;\"><strong>Podcast</strong>: contenido de audio digital que se puede escuchar en Internet, normalmente organizado en episodios. Se asemeja a un programa de radio, pero el podcast puede ser escuchado en cualquier momento. Al igual que los vídeos, permanece grabado.</li>\n<li style=\"text-align: justify;\"><strong>Responsabilidad en la comunicación digital</strong>: necesidad de cuidar cómo nos expresamos en Internet debido a sus características.</li>\n<li style=\"text-align: justify;\"><strong>Tono (en comunicación digital)</strong>: forma en la que puede interpretarse un mensaje, que puede variar al no ser cara a cara.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moizu7mu-8my157lgh</odePageId>
+  <odeParentPageId>page-moizu7mb-1ei1expqx</odeParentPageId>
+  <pageName>8. Atribución y fichero descargable</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Atribución y fichero descargable</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-moizu7mu-8my157lgh</odePageId>
+      <odeBlockId>block-1777401386847-z9ktgw9s6</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-moizu7mu-8my157lgh</odePageId>
+          <odeBlockId>block-1777401386847-z9ktgw9s6</odeBlockId>
+          <odeIdeviceId>idevice-1777401386843-8yumq7mwr</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA Propuesta para el alumnado</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Judith Felgueroso García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
